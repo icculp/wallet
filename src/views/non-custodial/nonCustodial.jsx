@@ -111,7 +111,7 @@ function Validate({
         </p>
         <TextInput
           onChange={({ target }) => setAddress(target.value)}
-          placeholder="Custodial Node Address"
+          placeholder="Operator Node Address"
         />
         <IconWithLabel
           className="status"

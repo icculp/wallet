@@ -8,6 +8,7 @@ export const ROUTES = {
   nonCustodial: "/non-custodial",
   selectAccount: "/select-account",
   staking: "/staking",
+  bulk: "/bulk",
 };
 
 export const PUBLIC_ROUTES = [
